@@ -1,0 +1,5 @@
+a) El símbolo - indica visibilidad privada (private), es decir, los atributos solo son accesibles dentro de la propia clase. El símbolo + indica visibilidad pública (public), lo que significa que los métodos pueden ser invocados desde cualquier otra clase.
+
+b) El atributo disponible es de tipo bool (booleano). Puede tomar dos valores: true (verdadero, disponible) o false (falso, no disponible).
+
+c) El método ToString() en C# se utiliza para devolver una cadena de texto que representa el objeto actual. Por defecto, devuelve el nombre completo del tipo, pero normalmente se sobrescribe para proporcionar una representación legible del estado del objeto (por ejemplo, mostrando los valores de sus atributos), lo que resulta útil para depuración, logging o para mostrar información al usuario.
